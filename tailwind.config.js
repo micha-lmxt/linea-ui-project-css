@@ -21,7 +21,10 @@ module.exports = {
       tertiary_lighter:"#E8C5B7",
 
       white: "#EEEEEE",
-      black: "#111111"
+      black: "#111111",
+      gray_light: "#AAAAAA",
+      gray_dark: '#666666'
+	
     },
     extend: {
       width: {
