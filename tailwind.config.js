@@ -8,22 +8,22 @@ module.exports = {
       lg: '976px'
     },
     colors: {
-      primary:"#37474f",
+      primary:"#DB3B49",
 			
-      secondary:"#9C8D5D",
-      secondary_dark:"#5C5337",
-      secondary_darker:"#82764E",
-      secondary_light:"#A89965",
-      secondary_lighter:"#E8D28B",
+      secondary:"#2BC2A4",
+      secondary_dark:"#229C83",
+      secondary_darker:"#145C4D",
+      secondary_light:"#31DBBA",
+      secondary_lighter:"#33E8C4",
 
-      tertiary:"#9C857C",
-      tertiary_light:"#A88F85",
-      tertiary_lighter:"#E8C5B7",
+      tertiary:"#C27C21",
+      tertiary_light:"#DB8B25",
+      tertiary_lighter:"#E89527",
 
-      white: "#EEEEEE",
-      black: "#111111",
-      gray_light: "#AAAAAA",
-      gray_dark: '#666666'
+      white: "#f1ede7",
+      black: "#362106",
+      gray_light: "#d6c8b7",
+      gray_dark: '#75480E'
 	
     },
     extend: {
