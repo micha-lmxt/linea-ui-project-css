@@ -21,10 +21,14 @@ module.exports = {
       tertiary_lighter:"#E89527",
 
       white: "#f1ede7",
-      black: "#362106",
+      black: "#170e03",
       gray_light: "#d6c8b7",
       gray_dark: '#75480E'
 	
+    },
+    fontFamily: {
+      sans: ['Prompt', 'sans-serif'],
+      serif: ['Sriracha', 'cursive']
     },
     extend: {
       width: {
