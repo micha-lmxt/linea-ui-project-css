@@ -8,6 +8,7 @@ module.exports = {
       lg: '976px'
     },
     colors: {
+      transparent: "transparent",
       primary:"#DB3B49",
 			
       secondary:"#2BC2A4",
